@@ -10,6 +10,7 @@ use Perpustakaan\DigitalBook;
 
 $book1 = new Book("Pemrograman Web", "Anang");
 $book2 = new Book("Basis Data", "Andi");
+$book3 = new DigitalBook("Pemrograman Mobile", "Budi");
 
 $member = new Member("Waylend");
 
